@@ -8,6 +8,7 @@
 A production-style, end-to-end machine learning project that predicts whether a Titanic passenger would have survived — based on real passenger data. Built with a full sklearn Pipeline, hyperparameter tuning via GridSearchCV, model evaluation, and deployed as an interactive Streamlit web app.
 
 🔗 **Live Demo:** https://titanic-survival-nachiket.streamlit.app
+
 🔗 **Kaggle:** https://www.kaggle.com/code/nachikettalekar/titanic-survival-predictor-end-to-end-ml
 
 ---
